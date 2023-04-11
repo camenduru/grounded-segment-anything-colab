@@ -11,3 +11,9 @@
 
 ## Main Repo
 https://github.com/IDEA-Research/Grounded-Segment-Anything
+
+
+## Output
+| . | .
+| --- | --- |
+![segment-inpainting](https://user-images.githubusercontent.com/54370274/230939654-6e667075-1c5c-4e91-9720-69631cd259dc.png) | ![segment-inpainting3](https://user-images.githubusercontent.com/54370274/231049649-a0c57991-ec04-4d2d-a10d-cca75ab92a13.png)
