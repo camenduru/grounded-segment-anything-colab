@@ -13,6 +13,8 @@
 ## Main Repo
 https://github.com/IDEA-Research/Grounded-Segment-Anything
 
+## Tutorial
+https://www.youtube.com/watch?v=A7x513Ah1Zk
 
 ## Output
 | . | .
