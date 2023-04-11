@@ -8,7 +8,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb) | grounded-segment-anything-colab <br /> runwayml/stable-diffusion-inpainting
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-custom.ipynb) | grounded-segment-anything-custom <br /> Custom Inpainting Model <br /> Due to the limitations of Free T4's VRAM capacity, maybe only 16-bit inpainting diffuser models are compatible 😐
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-custom.ipynb) | grounded-segment-anything-custom <br /> Custom Inpainting Model <br /> maybe only 16-bit inpainting diffuser models are compatible with Free T4 😐
 
 ## Main Repo
 https://github.com/IDEA-Research/Grounded-Segment-Anything
