@@ -8,7 +8,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-colab.ipynb) | grounded-segment-anything-colab <br /> runwayml/stable-diffusion-inpainting
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-custom.ipynb) | grounded-segment-anything-custom <br /> Custom Inpainting Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/grounded-segment-anything-colab/blob/main/grounded-segment-anything-custom.ipynb) | grounded-segment-anything-custom <br /> Custom Inpainting Model (🚦 WIP 🚦)
 
 ## Main Repo
 https://github.com/IDEA-Research/Grounded-Segment-Anything
