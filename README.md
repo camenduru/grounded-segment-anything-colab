@@ -14,6 +14,11 @@
 ## Main Repo
 https://github.com/IDEA-Research/Grounded-Segment-Anything
 
+## Paper
+https://arxiv.org/abs/2304.02643 <br />
+https://arxiv.org/abs/2303.05499 <br />
+
+
 ## Tutorial
 https://www.youtube.com/watch?v=A7x513Ah1Zk
 
